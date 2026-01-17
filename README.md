@@ -1,5 +1,6 @@
 # store-data-analysis
 > 🇧🇷 Este projeto está em Português
+
 Análise completa das 4 lojas da rede  para identificar qual unidade apresenta menor eficiência.
 
 ## 🎯 Objetivo
